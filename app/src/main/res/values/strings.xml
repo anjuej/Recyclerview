@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MvvmOrderItem</string>
+    <string name="title">Orders Details</string>
+    <string name="text2">Date For Delivery</string>
+    <string name="text3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+    ->price calculation
+    <string name="text4">Sub Total</string>
+    <string name="text5">GST</string>
+    <string name="text6">Delivery Charge</string>
+    <string name="text7">Paid</string>
+
+    ->Delivery details
+    <string name="textview1">Delivery Details</string>
+    <string name="call">Call</string>
+    <string name="rate">NOT RATED YET</string>
+
+    ->payment
+    <string name="t1">Payment Method</string>
+    <string name="t2">Paid By Using Amazon Pay</string>
+</resources>
